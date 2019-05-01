@@ -1,1 +1,3 @@
-# JezraFrazee.github.io
+# Jezra's Website Project
+
+Github Pages Repository
